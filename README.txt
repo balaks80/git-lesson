@@ -1,3 +1,4 @@
+<b> This is the new read me file </b>
 
 This repository contains files used for git lesson.
 
